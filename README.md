@@ -1,3 +1,3 @@
 # CPP_Basics
 
-- **struct VS class**
+- **[struct VS class](https://github.com/Nanfengzhiwo1/CPP_Basics/issues/1)**
