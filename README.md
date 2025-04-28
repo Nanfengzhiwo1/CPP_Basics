@@ -1,2 +1,3 @@
-# C-Basics
-"Concepts are best understood through examples."  —A scholar forgotten by the world
+# CPP_Basics
+
+- **struct VS class**
