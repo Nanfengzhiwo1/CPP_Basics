@@ -3,6 +3,6 @@
 
 - **[#include and Forward Declaration](https://github.com/Nanfengzhiwo1/UE5_Inventory/issues/11)**
 
-- **[keyword_inline](https://github.com/Nanfengzhiwo1/CPP_Basics/issues/2)**
+- **[keyword_inline and inline funtion](https://github.com/Nanfengzhiwo1/CPP_Basics/issues/2)**
 
 - **[]**
